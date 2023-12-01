@@ -1,6 +1,6 @@
 # Joke Recommender System using Content Based Filtering
 
-A joke recommender system build using classical ML concepts for Machine Learning (CSE344)
+A joke recommender system build using classical ML concepts for Machine Learning (CSE343)
  
 ## About
 

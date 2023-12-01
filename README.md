@@ -1,6 +1,6 @@
 # Joke Recommender System using Content Based Filtering
 
-A joke recommender system build using classical ML concepts for Machine Learning (CSE343)
+A joke recommendation system build using classical ML concepts for Machine Learning (CSE343)
  
 ## About
 
@@ -8,8 +8,8 @@ This project focuses on constructing a recommendation system tailored to suggest
 
 ## Methodology
 
-We build two systems, one using a user-based approach and the other using a joke-based approach.  
-The user-based approach predict the ratings for the existing user.  
+We build two systems, user-based-rating model and average-rating-model.  
+The user-based-rating approach predict the ratings for the existing user.  
 The average-rating approach predict the average ratings of a new joke to any user.  
 
 ## Results
